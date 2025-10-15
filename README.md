@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm ReddeppaReddy 👋</h1>
+  <h1>Hi there, I'm M SHAVAN KUMAR 👋</h1>
   <h3><img src="https://media.giphy.com/media/LmNwrBhejkK9EFWlLA/giphy.gif" width="30" height="30" style="vertical-align: middle;"> A passionate frontend developer from India <img src="https://media.giphy.com/media/LmNwrBhejkK9EFWlLA/giphy.gif" width="30" height="30" style="vertical-align: middle;"></h3>
   <br>
   <p><i><img src="https://media.giphy.com/media/v1.L2YmD4uEfwYt1t2/giphy.gif" width="20" height="20" style="vertical-align: middle;"> Building engaging and responsive web applications with a focus on user experience. <img src="https://media.giphy.com/media/v1.L2YmD4uEfwYt1t2/giphy.gif" width="20" height="20" style="vertical-align: middle;"></i></p>
@@ -26,9 +26,9 @@
 -   Deep diving into Docker for containerized deployments.
 -   Cloud-native development with AWS Amplify.
 
--   👨‍💻 All of my projects are available at [My Portfolio](https://reddeppa-reddy-portfolio.vercel.app/)
--   📫 You can reach me at masireddyreddeppareddy@gmail.com
--   📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1eNVKcpCmWHfApar-DnjcI-MQKGnxdMvS/view?usp=sharing)
+-  
+-   📫 You can reach me at SHAVANK289@gmail.com
+-  
 -   🤝 I’m always open to collaborating on interesting web development projects.
 
 ---
