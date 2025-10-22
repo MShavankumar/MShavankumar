@@ -37,68 +37,19 @@
 </div>
 ---
 
-### 🛠 My Tech Stack
+🛠 My Tech Stack
 
 Here are some of the technologies I work with:
 
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript,nodejs,express,mongodb,mysql,postgresql,git,docker,aws,gcp" alt="Tech Stack Icons" />
-</p>
-
----
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.L2YmD4uEfwYt1t2/giphy.gif" width="50" height="50">
-</div>
----
-
-### 📈 My GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=reddeppareddy-27&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="ReddeppaReddy's GitHub Stats" />
-  </a>
-  <br>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddeppareddy-27&layout=compact&theme=tokyonight" alt="Top Languages" />
-  </a>
-  <br>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=reddeppareddy-27&theme=tokyonight&no-frame=true" alt="GitHub Trophies" />
-  </a>
-  <br>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=reddeppareddy-27&theme=dark" alt="GitHub Streak" />
-  </a>
-</div>
-
----
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.L2YmD4uEfwYt1t2/giphy.gif" width="50" height="50">
-</div>
----
-
-### 🌐 Connect with Me
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript,nodejs,express,mongodb,mysql,postgresql,git,docker,aws,gcp" alt="Tech Stack Icons" /> </p>
+<div align="center"> <img src="https://media.giphy.com/media/v1.L2YmD4uEfwYt1t2/giphy.gif" width="50" height="50"> </div>
+📈 My GitHub Stats
+<div align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=shavankumar27&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="Shavan Kumar's GitHub Stats" /> </a> <br> <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shavankumar27&layout=compact&theme=tokyonight" alt="Top Languages" /> </a> <br> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=shavankumar27&theme=tokyonight&no-frame=true" alt="GitHub Trophies" /> </a> <br> <a href="https://github.com/DenverCoder1/github-readme-streak-stats"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=shavankumar27&theme=dark" alt="GitHub Streak" /> </a> </div>
+<div align="center"> <img src="https://media.giphy.com/media/v1.L2YmD4uEfwYt1t2/giphy.gif" width="50" height="50"> </div>
+🌐 Connect with Me
 
 Let's connect and build something amazing together!
 
-<p align="center">
-  <a href="https://linkedin.com/in/masireddy-reddeppa-reddy-a5248a2b1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/reddeppa" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://dev.to/reddepparedy" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to">
-  </a>
-  <a href="https://instagram.com/psycho_reddy_2005" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-</p>
-
----
-<div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaPSzst8zlS6P/giphy.gif" width="60" height="60" alt="Animated Footer">
-  <br>
-  <i>Thanks for stopping by! Let's create something awesome.</i>
+<p align="center"> <a href="https://linkedin.com/in/shavan-kumar" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://twitter.com/shavankumar" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"> </a> <a href="https://dev.to/shavankumar" target="_blank"> <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"> </a> <a href="https://instagram.com/psycho_shavan_2005" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> </a> </p>
+<div align="center"> <img src="https://media.giphy.com/media/LnQjpWaPSzst8zlS6P/giphy.gif" width="60" height="60" alt="Animated Footer"> <br> <i>Thanks for stopping by! Let's create something awesome.</i> </div>
 </div>
