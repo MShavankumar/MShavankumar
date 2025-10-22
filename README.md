@@ -37,16 +37,7 @@
 </div>
 ---
 
-🛠 My Tech Stack
 
-Here are some of the technologies I work with:
-
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript,nodejs,express,mongodb,mysql,postgresql,git,docker,aws,gcp" alt="Tech Stack Icons" /> </p>
-<div align="center"> <img src="https://media.giphy.com/media/v1.L2YmD4uEfwYt1t2/giphy.gif" width="50" height="50"> </div>
-📈 My GitHub Stats
-<div align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=shavankumar27&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="Shavan Kumar's GitHub Stats" /> </a> <br> <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shavankumar27&layout=compact&theme=tokyonight" alt="Top Languages" /> </a> <br> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=shavankumar27&theme=tokyonight&no-frame=true" alt="GitHub Trophies" /> </a> <br> <a href="https://github.com/DenverCoder1/github-readme-streak-stats"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=shavankumar27&theme=dark" alt="GitHub Streak" /> </a> </div>
-<div align="center"> <img src="https://media.giphy.com/media/v1.L2YmD4uEfwYt1t2/giphy.gif" width="50" height="50"> </div>
-🌐 Connect with Me
 
 Let's connect and build something amazing together!
 
