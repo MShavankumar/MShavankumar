@@ -39,8 +39,5 @@
 
 
 
-Let's connect and build something amazing together!
 
-<p align="center"> <a href="https://linkedin.com/in/shavan-kumar" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://twitter.com/shavankumar" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"> </a> <a href="https://dev.to/shavankumar" target="_blank"> <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"> </a> <a href="https://instagram.com/psycho_shavan_2005" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> </a> </p>
-<div align="center"> <img src="https://media.giphy.com/media/LnQjpWaPSzst8zlS6P/giphy.gif" width="60" height="60" alt="Animated Footer"> <br> <i>Thanks for stopping by! Let's create something awesome.</i> </div>
 </div>
